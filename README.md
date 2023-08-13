@@ -83,3 +83,20 @@ CRUD hace referencia a un acrónimo en el que se reúnen las primeras letras de 
 ---
 ## Anexos
 - ### Capturas de funcionamiento
+  - #### Limpieza de Registro
+    | Antes                     | Después                   |
+    |---------------------------|---------------------------|
+    | ![img1](images/limpieza1.png) | ![img2](images/limpieza2.png) |
+
+  - ### CRUD en Funcionamiento
+    - #### Crear Registro
+    
+    - #### Leer registros
+      - ##### Búsqueda por Código
+      
+      - ##### Búsqueda por Nombre
+      
+    - #### Actualizar Registro
+    
+    - #### Eliminar Registro
+    
