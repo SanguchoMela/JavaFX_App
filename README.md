@@ -90,13 +90,23 @@ CRUD hace referencia a un acrónimo en el que se reúnen las primeras letras de 
 
   - ### CRUD en Funcionamiento
     - #### Crear Registro
-    
-    - #### Leer registros
-      - ##### Búsqueda por Código
-      
-      - ##### Búsqueda por Nombre
-      
+      | Datos llenos                | Confirmacion de agregado         | Vista en Data Base               |
+      |-----------------------------|----------------------------------|----------------------------------|
+      | ![img1](images/new_reg.png) | ![img2](images/actua_confir.png) | ![img3](images/query_newreg.png) |
+  - #### Leer registros
+    - ##### Búsqueda por Código
+      | Antes                                | Después                              | Codigo no existe            |
+      |--------------------------------------|--------------------------------------|-----------------------------|
+      | ![img1](images/busqueda1_nombre.png) | ![img2](images/busqueda2_nombre.png) | ![img3](images/cod_non.png) |
+    - ##### Búsqueda por Nombre
+      | Antes                         | Después                       | Codigo no existe             |
+      |-------------------------------|-------------------------------|------------------------------|
+      | ![img1](images/busq_nom1.png) | ![img2](images/busq_nom2.png) | ![img3](images/busq_nom.png) |
     - #### Actualizar Registro
-    
+      | Antes                         | Confirmacion de cambio           | Después                       |
+      |-------------------------------|----------------------------------|-------------------------------|
+      | ![img1](images/busq_nom2.png) | ![img2](images/actua_confir.png) | ![img3](images/actua_res.png) |
     - #### Eliminar Registro
-    
+      | Usuario a borrar              | Confirmacion de eliminacion   | Query y mensaje de no existencia                                |
+      |-------------------------------|-------------------------------|-----------------------------------------------------------------|
+      | ![img1](images/busq_nom2.png) | ![img2](images/eliminado.png) | ![img3](images/elim1.png)  <br/> ![img3](images/elim_query.png) |
