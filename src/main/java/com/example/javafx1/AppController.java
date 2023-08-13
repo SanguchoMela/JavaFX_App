@@ -37,7 +37,7 @@ public class AppController {
     //Conexion con MySQL
     final static String DB_URL="jdbc:mysql://localhost/registropersonas";
     final static String USER="root";
-    final static String PASS=null;
+    final static String PASS="root2023";
 
     //Boton de busqueda por codigo
     @FXML
