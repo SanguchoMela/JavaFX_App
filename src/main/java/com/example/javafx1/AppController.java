@@ -13,9 +13,9 @@ public class AppController {
     @FXML
     private ComboBox<String> signoSelect;
     @FXML
-    private Label encabezado,codigo_pers,cedula_pers,nombre_pers,fechaNac_pers,signoZod_pers,formato_fecha;
+    private Label encabezado, codigo_pers, cedula_pers, nombre_pers, fechaNac_pers, signoZod_pers, formato_fecha;
     @FXML
-    private TextField codigo_in,cedula_in,nombre_in,fechaNac_in;
+    private TextField codigo_in, cedula_in, nombre_in, fechaNac_in;
 
     //Objeto para la clase Persona
     private Persona persona = new Persona();
