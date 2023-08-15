@@ -1,5 +1,6 @@
 # Sistema CRUD con JavaFX y conexión a MySQL
 ## Integrantes
+- Almachi Eduardo
 - Delgado Bryan
 - Espinel Brittany
 - Sangucho Melany
