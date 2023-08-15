@@ -111,3 +111,6 @@ CRUD hace referencia a un acrónimo en el que se reúnen las primeras letras de 
       | Usuario a borrar              | Confirmacion de eliminacion   | Query y mensaje de no existencia                                |
       |-------------------------------|-------------------------------|-----------------------------------------------------------------|
       | ![img1](images/busq_nom2.png) | ![img2](images/eliminado.png) | ![img3](images/elim1.png)  <br/> ![img3](images/elim_query.png) |
+---
+## Enlace para video de funcionamiento
+[Video en YouTube](https://youtu.be/DOfam7HGJN8)
